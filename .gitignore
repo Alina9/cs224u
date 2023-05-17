@@ -58,7 +58,7 @@ target/
 
 # Data
 data/*
-data.tgz
+./data.tgz
 trees/*
 glove.6B/*
 vsmdata/*
